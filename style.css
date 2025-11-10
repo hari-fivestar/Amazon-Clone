@@ -123,7 +123,6 @@ span {
 
 .nav-cart {
     color: white;
-    /* background-color: white; */
 }
 
 .nav-cart i {
@@ -203,7 +202,6 @@ span {
     background-color: white;
     padding: 20px 0px 15px;
     margin-top: 20px;
-    /* border-radius: 10px; */
 }
 
 .box-img {
@@ -276,7 +274,6 @@ span {
     background-color: white;
     padding: 10px;
     margin-top: 20px;
-    /* align-content: center; */
 }
 
 .big-box h2 {
@@ -365,7 +362,6 @@ span {
 /* footer */
 
 .foot-panel1 {
-    /* background-color: #37475a; */
     background-color: #37475A;
     color: white;
     height: 50px;
@@ -417,3 +413,4 @@ span {
     width: 100px;
 
 }
+
