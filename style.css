@@ -101,11 +101,11 @@
 /* box-4 */
 
 
-/* .nav-signin {
+.nav-signin {
     display: flex;
     justify-content: center;
     align-items: center;
-} */
+}
 
 span {
     color: white;
@@ -415,4 +415,5 @@ span {
     background-size: cover;
     height: 50px;
     width: 100px;
+
 }
